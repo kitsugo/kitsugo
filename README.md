@@ -1,7 +1,7 @@
 ## Greetings
 
 I'm Kitsugo, I like coding, computer science and foxes. 🦊\
-All my repositories have moved to my [Git frontend](https://git.kitsugo.com/), but I still keep commit mirrors here on GitHub.
+All my repositories have moved to my [Git page](https://git.kitsugo.com/), but I keep <ins>empty</ins> commit mirrors here on GitHub.
 
 ## About me
 
