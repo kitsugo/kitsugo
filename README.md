@@ -5,8 +5,8 @@ All my repositories have moved to my [Git page](https://git.kitsugo.com/), but I
 
 ## About me
 
-- I teach computer science, and I'm especially passionate about computer systems. 🧮
-- Sometimes I program, focusing mostly on smaller projects and tools. 💽
+- I teach computer science, and I'm especially passionate about computer systems. 🖥
+- Sometimes I program, focusing mostly on smaller projects and tools. 🛠
 - I'm quite invested in free software, online privacy and digital rights in general. 🐧
 
 Feel free to visit [my website](https://kitsugo.com/) for more information about me and what I do.
